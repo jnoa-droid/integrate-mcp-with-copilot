@@ -1,0 +1,6 @@
+This is a test file created for the GitHub Copilot MCP integration exercise.
+
+Instructions:
+1. This file demonstrates creating files in a new branch
+2. It shows how to use MCP tools for GitHub operations
+3. The goal is to create a pull request with this new file
